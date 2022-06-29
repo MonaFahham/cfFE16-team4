@@ -1,0 +1,43 @@
+*{
+    background-color: black;
+    color: white;
+}
+
+
+/* main content 1 */
+
+.topic {
+    font-size: 3rem;
+    font-family: "Great Vibes", cursive;
+}
+
+.text_main {
+    font-size: 1.2rem;
+}
+
+.main_photo {
+    width: 10vw;
+    height: 8vh;
+}
+
+
+/* main content 2 */
+
+.hero_image {
+    position: relative;
+}
+
+.fit-image {
+    width: 100%;
+    object-position: center;
+    object-fit: cover;
+    height: 200px;
+}
+
+#main-topics>a {
+    text-decoration: none;
+}
+
+#main-topics>a:hover {
+    color: #9b9d9e;
+}

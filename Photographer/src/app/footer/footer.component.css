@@ -1,0 +1,21 @@
+.my_footer {
+    height: 13vh;
+    background-color: #212529;
+}
+
+.icons {
+    display: flex;
+    justify-content: space-evenly;
+}
+
+.icons>i {
+    font-size: 1.6em;
+    color: #9b9d9e;
+    padding-top: 10px;
+}
+
+.footer_text {
+    font-size: 1em;
+    text-align: center;
+    color: #9b9d9e;
+}
